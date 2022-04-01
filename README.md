@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome!
+
+I'm a freshman of BUPT now.
+
+Never stop learning.
+
 <!--
 **densa2333/densa2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
