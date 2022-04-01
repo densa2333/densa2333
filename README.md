@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome!
 
 A layfolk freshman of BUPT now.
 
-Never stop learning.
+Still trying my best.
 
 <!--
 **densa2333/densa2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
