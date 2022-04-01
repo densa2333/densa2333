@@ -2,7 +2,7 @@
 
 Welcome!
 
-I'm a freshman of BUPT now.
+A layfolk freshman of BUPT now.
 
 Never stop learning.
 
